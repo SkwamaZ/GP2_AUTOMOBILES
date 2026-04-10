@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+logs/
+*.log
+*_cache.csv
+api_demo_requests.csv
+.ipynb_checkpoints/
